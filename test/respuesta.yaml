@@ -1,0 +1,7 @@
+ResultadoIMC:
+  Persona:
+    nombre: 'Ana'
+    pesoKg: 70
+    alturaM: 1.75
+  BMI: 22.9
+  Categoria: 'Healthy'
